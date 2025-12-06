@@ -5,4 +5,4 @@ resources:
   - deployment.yaml
   - storage.yaml
   - service.yaml
-  - configmap.yaml
+  - configmap.yaml# repush
