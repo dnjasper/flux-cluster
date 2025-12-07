@@ -1,0 +1,6 @@
+homarr:
+  persistence:
+    enabled: true
+    size: 1Gi
+    accessMode: ReadWriteOnce   # optional, depending on the chart
+    storageClass: ""            # optional, default
