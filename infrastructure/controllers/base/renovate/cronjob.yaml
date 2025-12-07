@@ -22,4 +22,4 @@ spec:
                 - configMapRef:
                     name: renovate-configmap
 
-          restartPolicy: Never# repush
+          restartPolicy: Never
